@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChestertownResponds", "ChestertownResponds\ChestertownResponds.csproj", "{12F72A94-9180-446B-A6F2-FF4C7E22DFBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12F72A94-9180-446B-A6F2-FF4C7E22DFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F72A94-9180-446B-A6F2-FF4C7E22DFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F72A94-9180-446B-A6F2-FF4C7E22DFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F72A94-9180-446B-A6F2-FF4C7E22DFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F7631C9-B338-44F0-B3C0-8FE83623952C}
+	EndGlobalSection
+EndGlobal
